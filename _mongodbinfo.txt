@@ -1,0 +1,9 @@
+MongoDB Atlas Cluster https://cloud.mongodb.com/
+Cluster Details
+Cluster Name: Cluster0
+Username:bsathsara
+Password:M5tdUZYqY4dB7eOP
+
+Connect to Cluster0
+Add your connection string into your application code:mongodb+srv://bsathsara:M5tdUZYqY4dB7eOP@cluster0.hxjca6u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+Replace M5tdUZYqY4dB7eOP with the password for the bsathsara user.
